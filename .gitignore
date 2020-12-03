@@ -1,2 +1,5 @@
 # Project exclude paths
 /python_example/venv/
+/cpp_example/paho.mqtt.c/
+/cpp_example/paho.mqtt.cpp/
+/cpp_example/build/
