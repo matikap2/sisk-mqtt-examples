@@ -8,7 +8,7 @@ DEVICE_SN_PUBLISHER = "0xDEADBEEF"
 BASE_NAME_PUBLISHER = "urn:dev:" + DEVICE_SN_PUBLISHER + ":sensors:"
 BROKER_HOST = "rpi.mateuszkapala.eu"
 BROKER_PORT = 1883
-MQTT_TOPIC = "/example/living_room/sensors"
+MQTT_TOPIC = "example/living_room/sensors"
 SLEEP_TIME = 10
 
 
