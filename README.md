@@ -22,7 +22,7 @@ Firstly, init and update git submodules from repo - `paho.mqtt.c` and `paho.mqtt
 * [Paho MQTT C library](https://github.com/eclipse/paho.mqtt.c)
 * [Paho MQTT C++ library](https://github.com/eclipse/paho.mqtt.cpp)
 
-After that, use following commands (probably work ONLY on OS X, maybe also on LINUX - sorry):
+After that, use following commands (probably work ONLY on OS X, maybe also on LINUX (for Windows you should change CMake config) - sorry):
 
 ```bash
 cd cpp_example/
