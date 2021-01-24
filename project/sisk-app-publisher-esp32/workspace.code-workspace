@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\esp-sisk\\template-app"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_event.h": "c",
+			"semphr.h": "c",
+			"*.inc": "c",
+			"task.h": "c",
+			"freertos.h": "c",
+			"gpio.h": "c",
+			"action.h": "c",
+			"stdint.h": "c",
+			"system_error": "c",
+			"*.ipp": "c",
+			"ets_sys.h": "c",
+			"esp_system.h": "c"
+		}
+	}
+}

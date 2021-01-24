@@ -1,0 +1,28 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.flashType": "UART",
+  "idf.port": "/dev/cu.usbserial-AH0707EQ",
+  "files.associations": {
+    "esp_event.h": "c",
+    "semphr.h": "c",
+    "*.inc": "c",
+    "task.h": "c",
+    "freertos.h": "c",
+    "gpio.h": "c",
+    "action.h": "c",
+    "stdint.h": "c",
+    "system_error": "c",
+    "*.ipp": "c",
+    "ets_sys.h": "c",
+    "esp_system.h": "c"
+  },
+  "idf.portWin": "COM4"
+}
