@@ -34,3 +34,11 @@ cmake --build build/
 # Start program
 ./build/mqtt_example_client
 ```
+
+## ESP32 C examples
+
+Install [ESP-IDF for VS Code](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html).
+
+Open desired project from `project` folder, then open project workspace file.
+
+Compile using option from `Command Palette/ESP-IDF: Build your project`, then flash using `ESP-IDF Flash device` option. More information on building/flashing in [ESP-IDF VS Code Extension onboarding](https://www.youtube.com/watch?v=Lc6ausiKvQM&feature=youtu.be).
