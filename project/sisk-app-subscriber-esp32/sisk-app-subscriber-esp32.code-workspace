@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"idf.flashType": "UART",
+		"idf.port": "/dev/cu.usbserial-AH0707EQ"
+	}
+}
